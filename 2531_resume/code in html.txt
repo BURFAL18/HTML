@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<head><title>Multimedia 2018UIT2531</title></head>
+
+<BODY background = "bgg.jpg">
+
+<h1 style="color:Brown; font-family :verdana"><STRONG>
+Brijesh Burfal</STRONG></h1>
+ 
+<p style="font-family:verdana">
+  Profile :
+
+ <a href="mailto: brijeshb.it18@nsut.ac.in">Email</a>      
+<a href="https://www.linkedin.com/in/brijesh-burfal/">LinkedIn</a> 
+<a href="https://github.com/BURFAL18">Github</a>
+</p>
+
+<HR>
+  <H2>EDUCATION</H2>
+<p style="font-family:verdana">
+Netaji Subhas Institute Of Technology, New Delhi<br>
+Expected Graduation (2018-2022)<br>
+Bachelor’s Of Engineering <br>
+Information Technology<br>
+<br>
+Army Public School Shankar Vihar, New Delhi<br>
+2017-2018<br>
+AISSCE  ,  Class XII<br>
+
+PCM with C++ <br>
+<br>
+Army Public School Shankar Vihar, New Delhi<br>
+2015-2016 <br>
+AISSCE ,Class X <br>
+</p>
+<Hr>
+<H2>PROJECTS</H2>
+
+<h3 style="color:RED";>
+  DigiKirana — <i>(Android App)</i> </h3>
+<p style="font-family:verdana">
+DIGIKIRANA: It is an android based app and has a simple and interactive  UI that uses  GLIDE library  for storing,fetching   and Firebase real time Cloud for and authentication of user’s data. 
+
+<br>
+Project : 
+<a href="https://sites.google.com/view/digikirana/contact-us?authuser=0">DigiKirana</a>
+<br>
+</p>
+
+<h3 style="color:RED";>Augmented Book - <i>(Unity app)</i> </h3>
+<p style="font-family:verdana">
+It is an AR based app which reads target files  from DATABASE from VUFORIA and then by analysing the target image and feature points it depicts a 3D real world AR model .
+</p>
+<hr>
+
+<h2><strong> TECHNICAL SKILLS </strong></h2>
+<ul>
+<li style="color:Brown";>Programming:  
+ <ol>
+        <li> C </li>
+        <li> C++</li>
+        <li>Java(basic)</li>
+        <li>HTML,CSS</li>
+</ol> 
+</li>
+
+<li style="color:Blue";>Development:
+  <ol>
+        <li>AR</li>
+        <li> Android  </li>
+        <li> Web development</li>
+  </ol>
+</li>
+
+<li style="color:Green";>Database and Backend : 
+  <ol>
+        <li>SQL </li>
+        <li> Firebase  </li>
+   </ol>
+</li>
+
+</ul>
+<hr>
+  <h2>AWARDS</h2>
+  <ul>
+  <li> Awarded ‘High Achiever’ for getting 10 CGPA in 9 th and 10th </li>
+</ul>
+<hr>
+
+<H2>POSITION OF RESPONSIBLITY</H2>
+   <ul>
+    <li>Organised Red cross Donation & awareness campaign at school for cancer patients.</li>
+    <li> Mentor under Student Mentor program NSUT from 2019-20 </li>
+    <li> AI and Inovation Seminar Organised in school</li>
+  </ul>
+  <HR>
+
+  <H2>EXTRACURICULAR ACTIVITIES</H2>
+ 
+   <ul>
+       <li>Contributed to some open source repositories in HacktoberFest by Digital Ocean.</li>
+
+    <li>Member of DEBSOC ,Intagliare ,Quiz Club NSIT</li>
+
+    <li>Football ,Basketball ,Badminton winners at NSIT inter year winter sports 2018-19</li>
+    <li>Won various Quizes at school </li>
+  </ul>
+
+  <HR>
+
+
+  </BODY>
